@@ -1,4 +1,4 @@
-# Unicorn_Company_Analysis_Dashboard
+# Unicorn_Companies_Analysis_Dashboard
 
 ### This dashboard provides a comprehensive over view of unicorn companies across 32 industries, with data of Deal Terms, valuation, and country/region of origin. 
 #### Key Insights:
