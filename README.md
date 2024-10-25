@@ -15,5 +15,7 @@
 •	San Francisco has the highest number of unicorn companies, with count of 145 among all cities.
 
 •	The Byjus Company is on top among companies in longer duration of deal terms with 19 years.
+![Unicorn_Co_Dashboard](https://github.com/user-attachments/assets/7701a0ab-6d8a-46e6-8016-36f17b579661)
+
 
 
